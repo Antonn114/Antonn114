@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Antonn114
-- 👀 I’m interested in software and game development/engineering, as well as competitive programming and machine learning
-- 🌱 I’m currently learning data structures and algorithms (and a bit of game theory)
+- 👀 I’m interested in software and game development/engineering, competitive programming and machine learning
+- 🌱 I’m currently learning data structures and algorithms
 - 🏫 K67 Informatics @ HUS HSGS!!
 
 <!---
